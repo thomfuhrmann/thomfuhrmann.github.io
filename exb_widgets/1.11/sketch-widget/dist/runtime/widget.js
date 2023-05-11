@@ -2,6 +2,7 @@ System.register(["jimu-core","jimu-arcgis","jimu-ui","jimu-ui/basic/color-picker
     width: 100%;
     height: 100%;
     border-width: 0px;
+    border-radius: 0px;
     &:hover {
       background-color: #b4c0c3;
     }
