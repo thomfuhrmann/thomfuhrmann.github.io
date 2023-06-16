@@ -1,0 +1,20 @@
+{
+  "name": "loading-spinner",
+  "label": "Loading spinner",
+  "type": "widget",
+  "version": "1.11.0",
+  "exbVersion": "1.11.0",
+  "author": "Thomas Fuhrmann",
+  "description": "This widget renders a spinner when a layer is loading.",
+  "copyright": "GeoSphere Austria",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 300,
+    "height": 300
+  }
+}
