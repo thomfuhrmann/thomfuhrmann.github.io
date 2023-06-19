@@ -1,0 +1,21 @@
+{
+  "name": "layerlist-widget",
+  "label": "Print",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.11.0",
+  "dependency": "jimu-arcgis",
+  "author": "Thomas Fuhrmann",
+  "description": "A widget that adds custom layer-list functionality to a map.",
+  "copyright": "GeoSphere Austria",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "de-at"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 500
+  }
+}
