@@ -11,10 +11,11 @@
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {},
   "translatedLocales": [
-    "en"
+    "en",
+    "de-at"
   ],
   "defaultSize": {
-    "width": 50,
-    "height": 40
+    "width": 68,
+    "height": 50
   }
 }
