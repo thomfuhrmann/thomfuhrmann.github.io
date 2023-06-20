@@ -1,0 +1,7 @@
+div.esri-attribution__powered-by {
+  display: none;
+}
+
+div.esri-component.esri-scale-bar {
+  margin-bottom: 15px;
+}
