@@ -1,0 +1,20 @@
+{
+  "name": "basemap-widget",
+  "label": "Basemap gallery",
+  "type": "widget",
+  "version": "1.11.0",
+  "exbVersion": "1.11.0",
+  "author": "Thomas Fuhrmann",
+  "description": "",
+  "copyright": "©GeoSphere Austria / CC BY 4.0",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 300,
+    "height": 200
+  }
+}
