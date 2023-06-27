@@ -1,1 +1,1 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Layerliste",sketchLabel:"Zeichnen"})}}}));
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Layerliste",sketchLabel:"Zeichnen",sketchLayerName:"Zeichnungen"})}}}));
