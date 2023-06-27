@@ -9,7 +9,10 @@
   "copyright": "©GeoSphere Austria / CC BY 4.0",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {},
-  "translatedLocales": ["en"],
+  "translatedLocales": [
+    "en",
+    "de-at"
+  ],
   "dependency": "jimu-arcgis",
   "defaultSize": {
     "width": 300,
