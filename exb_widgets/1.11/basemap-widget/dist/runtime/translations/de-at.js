@@ -1,1 +1,1 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Grundkarten-Galerie",basemapEsri:"Grau mit Geländeschummerung",basemapBEV:"BEV Topografie"})}}}));
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Grundkarten-Galerie",basemapEsri:"Grau mit Geländeschummerung",basemapBEV:"BEV Topografie",copyrightBEV:"© BEV, Bundesamt für Eich- und Vermessungswesen"})}}}));
