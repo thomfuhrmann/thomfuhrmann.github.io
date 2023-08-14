@@ -3,7 +3,7 @@
   "label": "Print",
   "type": "widget",
   "version": "1.0.0",
-  "exbVersion": "1.10.0",
+  "exbVersion": "1.12.0",
   "dependency": "jimu-arcgis",
   "author": "Thomas Fuhrmann",
   "description": "A widget that adds print functionality to a map.",

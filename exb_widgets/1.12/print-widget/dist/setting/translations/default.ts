@@ -1,3 +1,3 @@
 export default {
-  selectMapWidget: "Select map:",
+  selectMapWidget: 'Bitte wählen Sie eine Karte:',
 };
