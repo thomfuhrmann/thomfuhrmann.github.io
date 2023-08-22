@@ -7507,5 +7507,41 @@
     "icon": "widgets/print-widget/icon.svg",
     "order": 700,
     "group": 7
+  },
+  {
+    "name": "sketch-widget",
+    "manifest": {
+      "name": "sketch-widget",
+      "label": "Sketch",
+      "type": "widget",
+      "version": "1.0.0",
+      "exbVersion": "1.12.0",
+      "dependency": "jimu-arcgis",
+      "author": "Thomas Fuhrmann",
+      "description": "A widget that adds sketching functionality to a map.",
+      "copyright": "GeoSphere Austria",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {},
+      "translatedLocales": [
+        "de-at",
+        "en"
+      ],
+      "defaultSize": {
+        "width": 68,
+        "height": 50
+      }
+    },
+    "i18nLabel": {
+      "de-at": "Zeichnen",
+      "en": "Sketch"
+    },
+    "i18nDescription": {
+      "de-at": null,
+      "en": null
+    },
+    "uri": "widgets/sketch-widget/",
+    "icon": "widgets/sketch-widget/icon.svg",
+    "order": 700,
+    "group": 7
   }
 ]

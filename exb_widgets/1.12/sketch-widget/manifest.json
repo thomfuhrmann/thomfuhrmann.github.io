@@ -1,0 +1,21 @@
+{
+  "name": "sketch-widget",
+  "label": "Sketch",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.12.0",
+  "dependency": "jimu-arcgis",
+  "author": "Thomas Fuhrmann",
+  "description": "A widget that adds sketching functionality to a map.",
+  "copyright": "GeoSphere Austria",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "de-at",
+    "en"
+  ],
+  "defaultSize": {
+    "width": 68,
+    "height": 50
+  }
+}
